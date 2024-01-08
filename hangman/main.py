@@ -1,7 +1,10 @@
 import random
 
 words = [
-    "mystery"
+    "mystery", "quizzical", "jazz", "buzzing", "fizz", "haphazard",
+    "zigzagging", "fluffy", "puzzle", "jinx", "gazebo", "kiwifruit",
+    "oxygen", "vodka", "whiskey", "symphony", "zodiac", "voyage",
+    "wizard", "yacht"
 ]
 
 def opportunities(chances):
